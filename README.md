@@ -23,9 +23,9 @@ Execute o comando para baixar a imagem e rodar o container
 ```
 sudo docker compose up -d 
 ```
-Verifique se os serviços estão ok
+Verifique se os serviços estão ok, se estiver derrube os containers
 ```
-derrube os containers depois de instalar e testar
+docker compose down
 ```
 
 ## Modo Swarm
