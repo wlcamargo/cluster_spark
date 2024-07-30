@@ -43,6 +43,7 @@ sudo docker stack deploy -c docker-compose.yml cluster_spark
 ## Como acessar os serviços?
 
 Jupyter: localhost:8888
+
 Cluster-Spark: localhost:8080
 
 ## Referência
